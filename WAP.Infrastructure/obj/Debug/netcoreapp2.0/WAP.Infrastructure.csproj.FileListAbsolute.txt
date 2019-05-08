@@ -1,0 +1,16 @@
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.0/WAP.Infrastructure.deps.json
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.0/WAP.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.0/WAP.Infrastructure.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.0/WAP.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.0/WAP.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.csproj.CopyComplete
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.0/WAP.Infrastructure.pdb

@@ -1,0 +1,4 @@
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/osx-x64/WAP.Core.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/osx-x64/WAP.Core.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/osx-x64/WAP.Core.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/osx-x64/WAP.Core.AssemblyInfo.cs

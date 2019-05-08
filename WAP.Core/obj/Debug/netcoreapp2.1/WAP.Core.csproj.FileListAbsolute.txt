@@ -1,0 +1,16 @@
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Core.deps.json
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Core.runtimeconfig.json
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Core.runtimeconfig.dev.json
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Core.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Core.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/bin/Debug/netcoreapp2.1/WAP.Infrastructure.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.csproj.CopyComplete
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Core/obj/Debug/netcoreapp2.1/WAP.Core.pdb

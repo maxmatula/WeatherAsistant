@@ -1,0 +1,12 @@
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.1/WAP.Infrastructure.deps.json
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.1/WAP.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.1/WAP.Infrastructure.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.1/WAP.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/bin/Debug/netcoreapp2.1/WAP.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.csproj.CopyComplete
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.Infrastructure/obj/Debug/netcoreapp2.1/WAP.Infrastructure.pdb

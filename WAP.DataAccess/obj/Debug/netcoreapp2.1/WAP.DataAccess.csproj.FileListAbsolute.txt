@@ -1,0 +1,11 @@
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/bin/Debug/netcoreapp2.1/WAP.DataAccess.deps.json
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/bin/Debug/netcoreapp2.1/WAP.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/bin/Debug/netcoreapp2.1/WAP.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/obj/Debug/netcoreapp2.1/WAP.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/bin/Debug/netcoreapp2.1/WAP.DataAccess.runtimeconfig.json
+/Users/em/Desktop/A.Lewicki/src/WAP.DataAccess/bin/Debug/netcoreapp2.1/WAP.DataAccess.runtimeconfig.dev.json

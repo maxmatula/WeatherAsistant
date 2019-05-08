@@ -1,0 +1,12 @@
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/bin/Debug/netcoreapp2.0/AIA.Infrastructure.deps.json
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/bin/Debug/netcoreapp2.0/AIA.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/bin/Debug/netcoreapp2.0/AIA.Infrastructure.pdb
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/bin/Debug/netcoreapp2.0/AIA.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/bin/Debug/netcoreapp2.0/AIA.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.csprojAssemblyReference.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.csproj.CopyComplete
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.dll
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.Infrastructure/obj/Debug/netcoreapp2.0/AIA.Infrastructure.pdb

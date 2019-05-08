@@ -1,0 +1,8 @@
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/bin/Debug/netcoreapp2.0/AIA.DataAccess.deps.json
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/bin/Debug/netcoreapp2.0/AIA.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/bin/Debug/netcoreapp2.0/AIA.DataAccess.pdb
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/obj/Debug/netcoreapp2.0/AIA.DataAccess.csproj.CoreCompileInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/obj/Debug/netcoreapp2.0/AIA.DataAccess.AssemblyInfoInputs.cache
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/obj/Debug/netcoreapp2.0/AIA.DataAccess.AssemblyInfo.cs
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/obj/Debug/netcoreapp2.0/AIA.DataAccess.dll
+/Users/em/Desktop/A.Lewicki/src/aiaproject.core/AIA/AIA.DataAccess/obj/Debug/netcoreapp2.0/AIA.DataAccess.pdb
