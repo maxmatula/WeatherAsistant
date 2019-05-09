@@ -20,6 +20,40 @@ namespace WAP.Infrastructure.Commands
                 Environment.Exit(0);
             }
 
+            if (command.ToLower().Equals("clear database") || command.ToLower().Equals("cd"))
+            {
+                using (var db = new WapContext())
+                {
+                    var entries = db.QueryLogs.ToList();
+
+                    Console.WriteLine("");
+                    Console.WriteLine($"You have {entries.Count} entries in database!");
+                    Console.WriteLine("Do you want to delete them?");
+                    Console.WriteLine("y/n");
+                    var decision = Console.ReadLine();
+
+                    switch (decision)
+                    {
+                        case "n":
+                            Console.WriteLine("Nothing changed!");
+                            break;
+
+                        case "y":
+                            foreach(var entry in entries)
+                            {
+                                db.QueryLogs.Remove(entry); 
+                            }
+                            db.SaveChanges();
+                            Console.WriteLine($"Deleted {entries.Count} entries. Database is clean!");
+                            break;
+
+                        default:
+                            Console.WriteLine("Nothing changed!");
+                            break;
+                    }
+                }
+            }
+
             if (command.ToLower().Equals("--help"))
             {
                 Console.WriteLine("");
@@ -143,38 +177,50 @@ namespace WAP.Infrastructure.Commands
                     cityQueriesAll = db.QueryLogs.Count();
                     var queryMax = db.QueryLogs.GroupBy(x => x.CityName);
 
-                    foreach (var c in queryMax)
+                    if (cityQueriesAll > 0)
                     {
-                        var count = c.Count();
-                        if (cityQueriesSingleMax < count)
+                        foreach (var c in queryMax)
                         {
-                            cityQueriesSingleMax = count;
-                            var que = c.Select(x => x.CityName);
-                            city = que.First();
+                            var count = c.Count();
+                            if (cityQueriesSingleMax < count)
+                            {
+                                cityQueriesSingleMax = count;
+                                var que = c.Select(x => x.CityName);
+                                city = que.First();
+                            }
                         }
                     }
+
                 }
 
-                var qPercent = cityQueriesSingleMax / cityQueriesAll;
-                qPercent *= 100;
-                qPercent = Math.Round(qPercent, 3);
+                if (cityQueriesAll > 0)
+                {
+                    var qPercent = cityQueriesSingleMax / cityQueriesAll;
+                    qPercent *= 100;
+                    qPercent = Math.Round(qPercent, 3);
 
-                var crossEde = qPercent > 50;
+                    var crossEde = qPercent > 50;
 
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("========== Prediction Algorythm Analysis Data ==========");
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("");
-                Console.WriteLine($"All entries: {cityQueriesAll}");
-                Console.WriteLine($"Most common city: {city}");
-                Console.WriteLine($"{city} entries: {cityQueriesSingleMax}");
-                Console.WriteLine($"{city} percentage: {qPercent}%");
-                Console.WriteLine($"Algorithm prediction city edge value = 50%");
-                Console.WriteLine($"Algorithm prediction city cross edge value? = {crossEde}");
-                Console.WriteLine("");
-                Console.WriteLine("========================================================");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("========== Prediction Algorythm Analysis Data ==========");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("");
+                    Console.WriteLine($"All entries: {cityQueriesAll}");
+                    Console.WriteLine($"Most common city: {city}");
+                    Console.WriteLine($"{city} entries: {cityQueriesSingleMax}");
+                    Console.WriteLine($"{city} percentage: {qPercent}%");
+                    Console.WriteLine($"Algorithm prediction city edge value = 50%");
+                    Console.WriteLine($"Algorithm prediction city cross edge value? = {crossEde}");
+                    Console.WriteLine("");
+                    Console.WriteLine("========================================================");
+
+                }
+                else
+                {
+                    Console.WriteLine("There is no Query Logs in database!");
+                }
             }
         }
     }
