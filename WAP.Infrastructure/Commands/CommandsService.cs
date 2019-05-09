@@ -88,6 +88,16 @@ namespace WAP.Infrastructure.Commands
                     }
                 }
 
+                if (cityQueriesAll == 0)
+                {
+                    cityQueriesAll = 1;
+                }
+
+                if (cityQueriesSingleMax == 0)
+                {
+                    cityQueriesSingleMax = 1;
+                }
+
                 var qPercent = cityQueriesSingleMax / cityQueriesAll;
                 qPercent *= 100;
 
